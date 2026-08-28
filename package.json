@@ -1,0 +1,15 @@
+{
+  "名称"："js-confuser-api",
+  "版本": "1.0.0",
+  "描述": "使用js-confuser进行JavaScript混淆的Node.js API服务",
+  "主要": "server.js",
+  "脚本": {
+    "开始": "node server.js",
+    "dev": "node server.js"
+  },
+  "依存关系": {
+    "快速": "^4.21.2",
+    "multer": "^1.4.5-lts.1",
+    "Cors": "^2.8.5"
+  }
+}
